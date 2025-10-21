@@ -3,4 +3,15 @@ body {
     background-color: rgb(177, 252, 252);
     color: black;
     font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: rgb(179, 187, 187);
+    color:rgb(0, 2, 4);
+    font-family: "Bai Jamjuree", sans-serif;
 }
